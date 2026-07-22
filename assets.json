@@ -1,0 +1,2541 @@
+{
+  "schema": "https://ionity-global-pty-ltd.github.io/ionity-assets/assets.schema.json",
+  "name": "Ionity Assets",
+  "description": "Official public digital asset catalog for Ionity Global (Pty) Ltd.",
+  "repository": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets",
+  "homepage": "https://ionity-global-pty-ltd.github.io/ionity-assets/",
+  "generated_at": "2026-07-22T19:36:38.632Z",
+  "asset_count": 252,
+  "counts": {
+    "archive": 1,
+    "audio": 25,
+    "code": 27,
+    "document": 4,
+    "image": 165,
+    "metadata": 11,
+    "other": 7,
+    "video": 12
+  },
+  "assets": [
+    {
+      "id": "0f9618673fb644b9b2767ca592a39673",
+      "name": "0f9618673fb644b9b2767ca592a39673",
+      "path": "0f9618673fb644b9b2767ca592a39673",
+      "category": "other",
+      "format": "file",
+      "bytes": 32,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/0f9618673fb644b9b2767ca592a39673",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/0f9618673fb644b9b2767ca592a39673"
+    },
+    {
+      "id": "0f9618673fb644b9b2767ca592a39673-copy",
+      "name": "0f9618673fb644b9b2767ca592a39673 - Copy",
+      "path": "0f9618673fb644b9b2767ca592a39673 - Copy",
+      "category": "other",
+      "format": "file",
+      "bytes": 32,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/0f9618673fb644b9b2767ca592a39673%20-%20Copy",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/0f9618673fb644b9b2767ca592a39673%20-%20Copy"
+    },
+    {
+      "id": "asignature-png",
+      "name": "ASignature.png",
+      "path": "ASignature.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2231759,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ASignature.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ASignature.png"
+    },
+    {
+      "id": "ai-ionity-transparrent-png",
+      "name": "Ai-ionity transparrent.png",
+      "path": "Ai-ionity transparrent.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2082768,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ai-ionity%20transparrent.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ai-ionity%20transparrent.png"
+    },
+    {
+      "id": "ai-ionity-png",
+      "name": "Ai-ionity.png",
+      "path": "Ai-ionity.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 142582,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ai-ionity.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ai-ionity.png"
+    },
+    {
+      "id": "banner-ionity-yt-png",
+      "name": "Banner_ionity_YT.png",
+      "path": "Banner_ionity_YT.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 627390,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Banner_ionity_YT.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Banner_ionity_YT.png"
+    },
+    {
+      "id": "copilot-20260711-211328-png",
+      "name": "Copilot_20260711_211328.png",
+      "path": "Copilot_20260711_211328.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 763849,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Copilot_20260711_211328.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Copilot_20260711_211328.png"
+    },
+    {
+      "id": "copilot-20260711-211418-png",
+      "name": "Copilot_20260711_211418.png",
+      "path": "Copilot_20260711_211418.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 627390,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Copilot_20260711_211418.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Copilot_20260711_211418.png"
+    },
+    {
+      "id": "copilot-20260711-211443-png",
+      "name": "Copilot_20260711_211443.png",
+      "path": "Copilot_20260711_211443.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 627390,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Copilot_20260711_211443.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Copilot_20260711_211443.png"
+    },
+    {
+      "id": "copy-of-johan-wilhelm-van-antwerp-4-copy-png",
+      "name": "Copy of Johan_Wilhelm_van_Antwerp (4) - Copy.png",
+      "path": "Copy of Johan_Wilhelm_van_Antwerp (4) - Copy.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1747343,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Copy%20of%20Johan_Wilhelm_van_Antwerp%20(4)%20-%20Copy.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Copy%20of%20Johan_Wilhelm_van_Antwerp%20(4)%20-%20Copy.png"
+    },
+    {
+      "id": "dennis-grobler-business-card-animated-gif",
+      "name": "Dennis-Grobler-Business-Card-ANIMATED.gif",
+      "path": "Dennis-Grobler-Business-Card-ANIMATED.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 2041038,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Dennis-Grobler-Business-Card-ANIMATED.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Dennis-Grobler-Business-Card-ANIMATED.gif"
+    },
+    {
+      "id": "dennisgroblerionitybusinesscard-png",
+      "name": "DennisGroblerIonityBusinesscard.png",
+      "path": "DennisGroblerIonityBusinesscard.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 15277695,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/DennisGroblerIonityBusinesscard.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/DennisGroblerIonityBusinesscard.png"
+    },
+    {
+      "id": "ian-of-ian-jaco-raven-1-png",
+      "name": "IAN of Ian Jaco Raven (1).png",
+      "path": "IAN of Ian Jaco Raven (1).png",
+      "category": "image",
+      "format": "png",
+      "bytes": 351096,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/IAN%20of%20Ian%20Jaco%20Raven%20(1).png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/IAN%20of%20Ian%20Jaco%20Raven%20(1).png"
+    },
+    {
+      "id": "ian-of-ian-jaco-raven-png",
+      "name": "IAN of Ian Jaco Raven.png",
+      "path": "IAN of Ian Jaco Raven.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 47597,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/IAN%20of%20Ian%20Jaco%20Raven.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/IAN%20of%20Ian%20Jaco%20Raven.png"
+    },
+    {
+      "id": "ionity-intro-powershell-ps1",
+      "name": "IONITY_INTRO_POWERSHELL.ps1",
+      "path": "IONITY_INTRO_POWERSHELL.ps1",
+      "category": "code",
+      "format": "ps1",
+      "bytes": 7752,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/IONITY_INTRO_POWERSHELL.ps1",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/IONITY_INTRO_POWERSHELL.ps1"
+    },
+    {
+      "id": "ian-jaco-raven-busness-card-1-png",
+      "name": "Ian JAco Raven Busness card (1).png",
+      "path": "Ian JAco Raven Busness card (1).png",
+      "category": "image",
+      "format": "png",
+      "bytes": 10077036,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ian%20JAco%20Raven%20Busness%20card%20(1).png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ian%20JAco%20Raven%20Busness%20card%20(1).png"
+    },
+    {
+      "id": "ian-jaco-raven-busness-card-png",
+      "name": "Ian JAco Raven Busness card.png",
+      "path": "Ian JAco Raven Busness card.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2955383,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ian%20JAco%20Raven%20Busness%20card.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ian%20JAco%20Raven%20Busness%20card.png"
+    },
+    {
+      "id": "ian-jaco-raven-business-card-animated-gif",
+      "name": "Ian-Jaco-Raven-Business-Card-ANIMATED.gif",
+      "path": "Ian-Jaco-Raven-Business-Card-ANIMATED.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 2007037,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ian-Jaco-Raven-Business-Card-ANIMATED.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ian-Jaco-Raven-Business-Card-ANIMATED.gif"
+    },
+    {
+      "id": "ionity-global-portfolio-v7-rev-1-johan-pdf",
+      "name": "Ionity Global Portfolio V7. REV 1 Johan.pdf",
+      "path": "Ionity Global Portfolio V7. REV 1 Johan.pdf",
+      "category": "document",
+      "format": "pdf",
+      "bytes": 2850892,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity%20Global%20Portfolio%20V7.%20REV%201%20Johan.pdf",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity%20Global%20Portfolio%20V7.%20REV%201%20Johan.pdf"
+    },
+    {
+      "id": "ionity-banner-png",
+      "name": "Ionity_Banner.png",
+      "path": "Ionity_Banner.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 627390,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity_Banner.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity_Banner.png"
+    },
+    {
+      "id": "ionity-dev-song-mp4",
+      "name": "Ionity_Dev_song.mp4",
+      "path": "Ionity_Dev_song.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 22806283,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity_Dev_song.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity_Dev_song.mp4"
+    },
+    {
+      "id": "ionity-global-pty-ltd-transparrent-png",
+      "name": "Ionity_Global_Pty_LTD_Transparrent.png",
+      "path": "Ionity_Global_Pty_LTD_Transparrent.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2082820,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity_Global_Pty_LTD_Transparrent.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity_Global_Pty_LTD_Transparrent.png"
+    },
+    {
+      "id": "ionity-global-pty-ltd-transparrent-optimized-1000-png",
+      "name": "Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png",
+      "path": "Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 16063,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png"
+    },
+    {
+      "id": "ionity-global-pty-ltd-transparrent-optimized-10001-png",
+      "name": "Ionity_Global_Pty_LTD_Transparrent_optimized_10001.png",
+      "path": "Ionity_Global_Pty_LTD_Transparrent_optimized_10001.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 16063,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity_Global_Pty_LTD_Transparrent_optimized_10001.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity_Global_Pty_LTD_Transparrent_optimized_10001.png"
+    },
+    {
+      "id": "ionity-intro-implosion-nodes-networks-202605101118-mp4",
+      "name": "Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "path": "Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 5928281,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Ionity_intro_implosion_nodes_networks_202605101118.mp4"
+    },
+    {
+      "id": "johan-wilhelm-van-antwerp-48-png",
+      "name": "Johan_Wilhelm_van_Antwerp (48).png",
+      "path": "Johan_Wilhelm_van_Antwerp (48).png",
+      "category": "image",
+      "format": "png",
+      "bytes": 21542010,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Johan_Wilhelm_van_Antwerp%20(48).png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Johan_Wilhelm_van_Antwerp%20(48).png"
+    },
+    {
+      "id": "johanwilhelmvanantwerpesignatureionity-png",
+      "name": "Johanwilhelmvanantwerpesignatureionity.png",
+      "path": "Johanwilhelmvanantwerpesignatureionity.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 3150864,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Johanwilhelmvanantwerpesignatureionity.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Johanwilhelmvanantwerpesignatureionity.png"
+    },
+    {
+      "id": "license-ionity-global-txt",
+      "name": "License-Ionity Global.txt",
+      "path": "License-Ionity Global.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 29770,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/License-Ionity%20Global.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/License-Ionity%20Global.txt"
+    },
+    {
+      "id": "lisence-governing-aedi-txt",
+      "name": "Lisence governing AEDI.txt",
+      "path": "Lisence governing AEDI.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 29782,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Lisence%20governing%20AEDI.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Lisence%20governing%20AEDI.txt"
+    },
+    {
+      "id": "please-ad-logo-bottom-right-202607041714-jpeg",
+      "name": "Please_ad_logo_bottom_right_202607041714.jpeg",
+      "path": "Please_ad_logo_bottom_right_202607041714.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 1832096,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Please_ad_logo_bottom_right_202607041714.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Please_ad_logo_bottom_right_202607041714.jpeg"
+    },
+    {
+      "id": "robi-business-card-1-png",
+      "name": "Robi Business card (1).png",
+      "path": "Robi Business card (1).png",
+      "category": "image",
+      "format": "png",
+      "bytes": 15475279,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Robi%20Business%20card%20(1).png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Robi%20Business%20card%20(1).png"
+    },
+    {
+      "id": "robi-business-card-png",
+      "name": "Robi Business card.png",
+      "path": "Robi Business card.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 3272314,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Robi%20Business%20card.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Robi%20Business%20card.png"
+    },
+    {
+      "id": "robin-mary-du-toit-business-card-animated-gif",
+      "name": "Robin-Mary-du-Toit-Business-Card-ANIMATED.gif",
+      "path": "Robin-Mary-du-Toit-Business-Card-ANIMATED.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 2032057,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Robin-Mary-du-Toit-Business-Card-ANIMATED.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Robin-Mary-du-Toit-Business-Card-ANIMATED.gif"
+    },
+    {
+      "id": "robin-gif",
+      "name": "Robin.gif",
+      "path": "Robin.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 106283,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Robin.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Robin.gif"
+    },
+    {
+      "id": "robin-png",
+      "name": "Robin.png",
+      "path": "Robin.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 726030,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/Robin.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/Robin.png"
+    },
+    {
+      "id": "william-njabulo-kodua-business-card-animated-gif",
+      "name": "William-Njabulo-Kodua-Business-Card-ANIMATED.gif",
+      "path": "William-Njabulo-Kodua-Business-Card-ANIMATED.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 1992748,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/William-Njabulo-Kodua-Business-Card-ANIMATED.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/William-Njabulo-Kodua-Business-Card-ANIMATED.gif"
+    },
+    {
+      "id": "willianbusinesscard-png",
+      "name": "WillianBusinessCard.png",
+      "path": "WillianBusinessCard.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 3019091,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/WillianBusinessCard.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/WillianBusinessCard.png"
+    },
+    {
+      "id": "assets-0f9618673fb644b9b2767ca592a39673",
+      "name": "0f9618673fb644b9b2767ca592a39673",
+      "path": "assets/0f9618673fb644b9b2767ca592a39673",
+      "category": "other",
+      "format": "file",
+      "bytes": 32,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/0f9618673fb644b9b2767ca592a39673",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/0f9618673fb644b9b2767ca592a39673"
+    },
+    {
+      "id": "assets-0f9618673fb644b9b2767ca592a39673-copy",
+      "name": "0f9618673fb644b9b2767ca592a39673 - Copy",
+      "path": "assets/0f9618673fb644b9b2767ca592a39673 - Copy",
+      "category": "other",
+      "format": "file",
+      "bytes": 32,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/0f9618673fb644b9b2767ca592a39673%20-%20Copy",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/0f9618673fb644b9b2767ca592a39673%20-%20Copy"
+    },
+    {
+      "id": "assets-ai-ionity-transparrent-png",
+      "name": "Ai-ionity transparrent.png",
+      "path": "assets/Ai-ionity transparrent.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2082768,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Ai-ionity%20transparrent.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Ai-ionity%20transparrent.png"
+    },
+    {
+      "id": "assets-ai-ionity-png",
+      "name": "Ai-ionity.png",
+      "path": "assets/Ai-ionity.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 142582,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Ai-ionity.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Ai-ionity.png"
+    },
+    {
+      "id": "assets-audio-aedi-antwerpdesigns-ionityglobal-png",
+      "name": "AEDi-AntwerpDesigns-Ionityglobal.png",
+      "path": "assets/Audio/AEDi-AntwerpDesigns-Ionityglobal.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1372838,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/AEDi-AntwerpDesigns-Ionityglobal.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/AEDi-AntwerpDesigns-Ionityglobal.png"
+    },
+    {
+      "id": "assets-audio-copilot-20260711-072541-png",
+      "name": "Copilot_20260711_072541.png",
+      "path": "assets/Audio/Copilot_20260711_072541.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2000672,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/Copilot_20260711_072541.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/Copilot_20260711_072541.png"
+    },
+    {
+      "id": "assets-audio-ionity-brein-van-n-byte-mp3",
+      "name": "Ionity (Brein van 'n Byte).mp3",
+      "path": "assets/Audio/Ionity (Brein van 'n Byte).mp3",
+      "category": "audio",
+      "format": "mp3",
+      "bytes": 2327087,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/Ionity%20(Brein%20van%20'n%20Byte).mp3",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/Ionity%20(Brein%20van%20'n%20Byte).mp3"
+    },
+    {
+      "id": "assets-audio-ionity-dev-song-mp4",
+      "name": "Ionity_Dev_song.mp4",
+      "path": "assets/Audio/Ionity_Dev_song.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 22806283,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/Ionity_Dev_song.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/Ionity_Dev_song.mp4"
+    },
+    {
+      "id": "assets-audio-edb36708-3a76-4bee-8178-20fa19fb5e11-jpg",
+      "name": "edb36708-3a76-4bee-8178-20fa19fb5e11.jpg",
+      "path": "assets/Audio/edb36708-3a76-4bee-8178-20fa19fb5e11.jpg",
+      "category": "image",
+      "format": "jpg",
+      "bytes": 736602,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/edb36708-3a76-4bee-8178-20fa19fb5e11.jpg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/edb36708-3a76-4bee-8178-20fa19fb5e11.jpg"
+    },
+    {
+      "id": "assets-audio-ionity-dev-song-mp3",
+      "name": "ionity_Dev_Song.mp3",
+      "path": "assets/Audio/ionity_Dev_Song.mp3",
+      "category": "audio",
+      "format": "mp3",
+      "bytes": 2877743,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/ionity_Dev_Song.mp3",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/ionity_Dev_Song.mp3"
+    },
+    {
+      "id": "assets-audio-oility-jpg",
+      "name": "oility.jpg",
+      "path": "assets/Audio/oility.jpg",
+      "category": "image",
+      "format": "jpg",
+      "bytes": 1080615,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/oility.jpg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/oility.jpg"
+    },
+    {
+      "id": "assets-audio-video-10-mp4",
+      "name": "video (10).mp4",
+      "path": "assets/Audio/video (10).mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 45497276,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Audio/video%20(10).mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Audio/video%20(10).mp4"
+    },
+    {
+      "id": "assets-ionity-intro-powershell-ps1",
+      "name": "IONITY_INTRO_POWERSHELL.ps1",
+      "path": "assets/IONITY_INTRO_POWERSHELL.ps1",
+      "category": "code",
+      "format": "ps1",
+      "bytes": 7752,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/IONITY_INTRO_POWERSHELL.ps1",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/IONITY_INTRO_POWERSHELL.ps1"
+    },
+    {
+      "id": "assets-ionity-global-pty-ltd-transparrent-png",
+      "name": "Ionity_Global_Pty_LTD_Transparrent.png",
+      "path": "assets/Ionity_Global_Pty_LTD_Transparrent.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2082820,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Ionity_Global_Pty_LTD_Transparrent.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Ionity_Global_Pty_LTD_Transparrent.png"
+    },
+    {
+      "id": "assets-ionity-global-pty-ltd-transparrent-optimized-1000-png",
+      "name": "Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png",
+      "path": "assets/Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 16063,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png"
+    },
+    {
+      "id": "assets-ionity-intro-implosion-nodes-networks-202605101118-mp4",
+      "name": "Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "path": "assets/Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 5928281,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Ionity_intro_implosion_nodes_networks_202605101118.mp4"
+    },
+    {
+      "id": "assets-license-ionity-global-txt",
+      "name": "License-Ionity Global.txt",
+      "path": "assets/License-Ionity Global.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 29770,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/License-Ionity%20Global.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/License-Ionity%20Global.txt"
+    },
+    {
+      "id": "assets-lisences-policy-eula-end-user-license-agreement-eula-ionity-1-pdf",
+      "name": "End-User License Agreement (EULA) Ionity (1).pdf",
+      "path": "assets/Lisences,Policy,EULA/End-User License Agreement (EULA) Ionity (1).pdf",
+      "category": "document",
+      "format": "pdf",
+      "bytes": 777750,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Lisences%2CPolicy%2CEULA/End-User%20License%20Agreement%20(EULA)%20Ionity%20(1).pdf",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Lisences%2CPolicy%2CEULA/End-User%20License%20Agreement%20(EULA)%20Ionity%20(1).pdf"
+    },
+    {
+      "id": "assets-lisences-policy-eula-ionity-pty-ltd-license-aed-license-pdf",
+      "name": "Ionity (Pty) Ltd- License AED License.pdf",
+      "path": "assets/Lisences,Policy,EULA/Ionity (Pty) Ltd- License AED License.pdf",
+      "category": "document",
+      "format": "pdf",
+      "bytes": 47604,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Lisences%2CPolicy%2CEULA/Ionity%20(Pty)%20Ltd-%20License%20AED%20License.pdf",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Lisences%2CPolicy%2CEULA/Ionity%20(Pty)%20Ltd-%20License%20AED%20License.pdf"
+    },
+    {
+      "id": "assets-lisences-policy-eula-version-7-3-1-active-policy-986-aed-metadata-antwerp-designs-johan-wilhelm-van-antwerp-rustenburg-centurion-global-intent-9003135105083txt-pdf",
+      "name": "Version 7.3.1  - Active, Policy 986 AED - Metadata -  Antwerp Designs - Johan Wilhelm van Antwerp - Rustenburg & Centurion - GLOBAL INTENT - 9003135105083txt.pdf",
+      "path": "assets/Lisences,Policy,EULA/Version 7.3.1  - Active, Policy 986 AED - Metadata -  Antwerp Designs - Johan Wilhelm van Antwerp - Rustenburg & Centurion - GLOBAL INTENT - 9003135105083txt.pdf",
+      "category": "document",
+      "format": "pdf",
+      "bytes": 304969,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Lisences%2CPolicy%2CEULA/Version%207.3.1%20%20-%20Active%2C%20Policy%20986%20AED%20-%20Metadata%20-%20%20Antwerp%20Designs%20-%20Johan%20Wilhelm%20van%20Antwerp%20-%20Rustenburg%20%26%20Centurion%20-%20GLOBAL%20INTENT%20-%209003135105083txt.pdf",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Lisences%2CPolicy%2CEULA/Version%207.3.1%20%20-%20Active%2C%20Policy%20986%20AED%20-%20Metadata%20-%20%20Antwerp%20Designs%20-%20Johan%20Wilhelm%20van%20Antwerp%20-%20Rustenburg%20%26%20Centurion%20-%20GLOBAL%20INTENT%20-%209003135105083txt.pdf"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-1-up-wav",
+      "name": "smb_1-up.wav",
+      "path": "assets/Mario Sounds - Copy/smb_1-up.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 38426,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_1-up.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_1-up.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-bowserfalls-wav",
+      "name": "smb_bowserfalls.wav",
+      "path": "assets/Mario Sounds - Copy/smb_bowserfalls.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 46466,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_bowserfalls.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_bowserfalls.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-bowserfire-wav",
+      "name": "smb_bowserfire.wav",
+      "path": "assets/Mario Sounds - Copy/smb_bowserfire.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 51526,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_bowserfire.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_bowserfire.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-breakblock-wav",
+      "name": "smb_breakblock.wav",
+      "path": "assets/Mario Sounds - Copy/smb_breakblock.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 25090,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_breakblock.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_breakblock.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-bump-wav",
+      "name": "smb_bump.wav",
+      "path": "assets/Mario Sounds - Copy/smb_bump.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 10426,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_bump.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_bump.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-coin-wav",
+      "name": "smb_coin.wav",
+      "path": "assets/Mario Sounds - Copy/smb_coin.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 42654,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_coin.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_coin.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-fireball-wav",
+      "name": "smb_fireball.wav",
+      "path": "assets/Mario Sounds - Copy/smb_fireball.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 6756,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_fireball.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_fireball.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-fireworks-wav",
+      "name": "smb_fireworks.wav",
+      "path": "assets/Mario Sounds - Copy/smb_fireworks.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 19542,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_fireworks.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_fireworks.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-flagpole-wav",
+      "name": "smb_flagpole.wav",
+      "path": "assets/Mario Sounds - Copy/smb_flagpole.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 52622,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_flagpole.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_flagpole.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-gameover-wav",
+      "name": "smb_gameover.wav",
+      "path": "assets/Mario Sounds - Copy/smb_gameover.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 167408,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_gameover.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_gameover.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-jump-small-wav",
+      "name": "smb_jump-small.wav",
+      "path": "assets/Mario Sounds - Copy/smb_jump-small.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 26982,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_jump-small.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_jump-small.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-jump-super-wav",
+      "name": "smb_jump-super.wav",
+      "path": "assets/Mario Sounds - Copy/smb_jump-super.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 26712,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_jump-super.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_jump-super.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-kick-wav",
+      "name": "smb_kick.wav",
+      "path": "assets/Mario Sounds - Copy/smb_kick.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 8948,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_kick.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_kick.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-mariodie-wav",
+      "name": "smb_mariodie.wav",
+      "path": "assets/Mario Sounds - Copy/smb_mariodie.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 120570,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_mariodie.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_mariodie.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-pause-wav",
+      "name": "smb_pause.wav",
+      "path": "assets/Mario Sounds - Copy/smb_pause.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 31174,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_pause.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_pause.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-pipe-wav",
+      "name": "smb_pipe.wav",
+      "path": "assets/Mario Sounds - Copy/smb_pipe.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 35538,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_pipe.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_pipe.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-powerup-wav",
+      "name": "smb_powerup.wav",
+      "path": "assets/Mario Sounds - Copy/smb_powerup.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 44580,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_powerup.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_powerup.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-powerup-appears-wav",
+      "name": "smb_powerup_appears.wav",
+      "path": "assets/Mario Sounds - Copy/smb_powerup_appears.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 26728,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_powerup_appears.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_powerup_appears.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-stage-clear-wav",
+      "name": "smb_stage_clear.wav",
+      "path": "assets/Mario Sounds - Copy/smb_stage_clear.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 249748,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_stage_clear.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_stage_clear.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-stomp-wav",
+      "name": "smb_stomp.wav",
+      "path": "assets/Mario Sounds - Copy/smb_stomp.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 13070,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_stomp.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_stomp.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-vine-wav",
+      "name": "smb_vine.wav",
+      "path": "assets/Mario Sounds - Copy/smb_vine.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 52108,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_vine.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_vine.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-warning-wav",
+      "name": "smb_warning.wav",
+      "path": "assets/Mario Sounds - Copy/smb_warning.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 130232,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_warning.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_warning.wav"
+    },
+    {
+      "id": "assets-mario-sounds-copy-smb-world-clear-wav",
+      "name": "smb_world_clear.wav",
+      "path": "assets/Mario Sounds - Copy/smb_world_clear.wav",
+      "category": "audio",
+      "format": "wav",
+      "bytes": 277206,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/Mario%20Sounds%20-%20Copy/smb_world_clear.wav",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/Mario%20Sounds%20-%20Copy/smb_world_clear.wav"
+    },
+    {
+      "id": "assets-assets-0f9618673fb644b9b2767ca592a39673",
+      "name": "0f9618673fb644b9b2767ca592a39673",
+      "path": "assets/assets/0f9618673fb644b9b2767ca592a39673",
+      "category": "other",
+      "format": "file",
+      "bytes": 32,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/0f9618673fb644b9b2767ca592a39673",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/0f9618673fb644b9b2767ca592a39673"
+    },
+    {
+      "id": "assets-assets-cookie-banner-html",
+      "name": "cookie-banner.html",
+      "path": "assets/assets/cookie-banner.html",
+      "category": "code",
+      "format": "html",
+      "bytes": 5420,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/cookie-banner.html",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/cookie-banner.html"
+    },
+    {
+      "id": "assets-assets-css-style-css",
+      "name": "style.css",
+      "path": "assets/assets/css/style.css",
+      "category": "code",
+      "format": "css",
+      "bytes": 17152,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/css/style.css",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/css/style.css"
+    },
+    {
+      "id": "assets-assets-download-mp4",
+      "name": "download.mp4",
+      "path": "assets/assets/download.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 19473214,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/download.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/download.mp4"
+    },
+    {
+      "id": "assets-assets-images-transparrent-ionity-logo-edited-copy-png",
+      "name": "-transparrent-ionity-logo-edited - Copy.png",
+      "path": "assets/assets/images/-transparrent-ionity-logo-edited - Copy.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.png"
+    },
+    {
+      "id": "assets-assets-images-transparrent-ionity-logo-edited-copy-svg",
+      "name": "-transparrent-ionity-logo-edited - Copy.svg",
+      "path": "assets/assets/images/-transparrent-ionity-logo-edited - Copy.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702348,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.svg"
+    },
+    {
+      "id": "assets-assets-images-aedi-logo-ico",
+      "name": "AEDI-LOGo.ico",
+      "path": "assets/assets/images/AEDI-LOGo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 410598,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/AEDI-LOGo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/AEDI-LOGo.ico"
+    },
+    {
+      "id": "assets-assets-images-aedi-logo-jpeg",
+      "name": "AEDI-LOGo.jpeg",
+      "path": "assets/assets/images/AEDI-LOGo.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 77331,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/AEDI-LOGo.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/AEDI-LOGo.jpeg"
+    },
+    {
+      "id": "assets-assets-images-aedi-logo-svg",
+      "name": "AEDI-LOGo.svg",
+      "path": "assets/assets/images/AEDI-LOGo.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1471197,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/AEDI-LOGo.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/AEDI-LOGo.svg"
+    },
+    {
+      "id": "assets-assets-images-eagle-logo-ionity-ecosystems-ionity-world-png",
+      "name": "Eagle logo Ionity ECOSYSTEMS ionity world.png",
+      "path": "assets/assets/images/Eagle logo Ionity ECOSYSTEMS ionity world.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 5439310,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.png"
+    },
+    {
+      "id": "assets-assets-images-eagle-logo-ionity-ecosystems-ionity-world-svg",
+      "name": "Eagle logo Ionity ECOSYSTEMS ionity world.svg",
+      "path": "assets/assets/images/Eagle logo Ionity ECOSYSTEMS ionity world.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 7252758,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.svg"
+    },
+    {
+      "id": "assets-assets-images-edge-intelegence-eidi-png",
+      "name": "Edge intelegence eidi.png",
+      "path": "assets/assets/images/Edge intelegence eidi.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1155222,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Edge%20intelegence%20eidi.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Edge%20intelegence%20eidi.png"
+    },
+    {
+      "id": "assets-assets-images-edge-intelegence-eidi-svg",
+      "name": "Edge intelegence eidi.svg",
+      "path": "assets/assets/images/Edge intelegence eidi.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1540618,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Edge%20intelegence%20eidi.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Edge%20intelegence%20eidi.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-repo-jpeg",
+      "name": "IONITY_REPO.jpeg",
+      "path": "assets/assets/images/IONITY_REPO.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 260560,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/IONITY_REPO.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/IONITY_REPO.jpeg"
+    },
+    {
+      "id": "assets-assets-images-ionity-repo-svg",
+      "name": "IONITY_REPO.svg",
+      "path": "assets/assets/images/IONITY_REPO.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 347729,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/IONITY_REPO.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/IONITY_REPO.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-gui-jpeg",
+      "name": "Ionity_GUI.jpeg",
+      "path": "assets/assets/images/Ionity_GUI.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 158010,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Ionity_GUI.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Ionity_GUI.jpeg"
+    },
+    {
+      "id": "assets-assets-images-ionity-gui-svg",
+      "name": "Ionity_GUI.svg",
+      "path": "assets/assets/images/Ionity_GUI.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 210989,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Ionity_GUI.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Ionity_GUI.svg"
+    },
+    {
+      "id": "assets-assets-images-logo-clouds-png",
+      "name": "LOGO_CLOUDS .png",
+      "path": "assets/assets/images/LOGO_CLOUDS .png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1649591,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/LOGO_CLOUDS%20.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/LOGO_CLOUDS%20.png"
+    },
+    {
+      "id": "assets-assets-images-logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa-ionity-transparrent-used-ico",
+      "name": "Logo-dark-Ionity Antwerp-Designs Johan-Wilhelm van-Antwerp South-Africa-Ionity-transparrent-Used.ico",
+      "path": "assets/assets/images/Logo-dark-Ionity Antwerp-Designs Johan-Wilhelm van-Antwerp South-Africa-Ionity-transparrent-Used.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 410598,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Logo-dark-Ionity%20Antwerp-Designs%20Johan-Wilhelm%20van-Antwerp%20South-Africa-Ionity-transparrent-Used.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Logo-dark-Ionity%20Antwerp-Designs%20Johan-Wilhelm%20van-Antwerp%20South-Africa-Ionity-transparrent-Used.ico"
+    },
+    {
+      "id": "assets-assets-images-untitled-design-svg",
+      "name": "Untitled design.svg",
+      "path": "assets/assets/images/Untitled design.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 263609,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/Untitled%20design.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/Untitled%20design.svg"
+    },
+    {
+      "id": "assets-assets-images-aedi-logo-pc-jpeg",
+      "name": "aedi-logo-pc.jpeg",
+      "path": "assets/assets/images/aedi-logo-pc.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 77331,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/aedi-logo-pc.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/aedi-logo-pc.jpeg"
+    },
+    {
+      "id": "assets-assets-images-aedi-logo-pc-svg",
+      "name": "aedi-logo-pc.svg",
+      "path": "assets/assets/images/aedi-logo-pc.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1471197,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/aedi-logo-pc.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/aedi-logo-pc.svg"
+    },
+    {
+      "id": "assets-assets-images-ai-m-custom-ionity-pcb-png",
+      "name": "ai-m-custom-ionity-pcb.png",
+      "path": "assets/assets/images/ai-m-custom-ionity-pcb.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1632542,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ai-m-custom-ionity-pcb.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ai-m-custom-ionity-pcb.png"
+    },
+    {
+      "id": "assets-assets-images-ai-m-custom-ionity-pcb-svg",
+      "name": "ai-m-custom-ionity-pcb.svg",
+      "path": "assets/assets/images/ai-m-custom-ionity-pcb.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 2177047,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ai-m-custom-ionity-pcb.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ai-m-custom-ionity-pcb.svg"
+    },
+    {
+      "id": "assets-assets-images-apple-touch-icon-png",
+      "name": "apple-touch-icon.png",
+      "path": "assets/assets/images/apple-touch-icon.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/apple-touch-icon.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/apple-touch-icon.png"
+    },
+    {
+      "id": "assets-assets-images-apple-touch-icon-svg",
+      "name": "apple-touch-icon.svg",
+      "path": "assets/assets/images/apple-touch-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1068664,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/apple-touch-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/apple-touch-icon.svg"
+    },
+    {
+      "id": "assets-assets-images-author-johan-jpg",
+      "name": "author-johan.jpg",
+      "path": "assets/assets/images/author-johan.jpg",
+      "category": "image",
+      "format": "jpg",
+      "bytes": 6853,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/author-johan.jpg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/author-johan.jpg"
+    },
+    {
+      "id": "assets-assets-images-author-johan-svg",
+      "name": "author-johan.svg",
+      "path": "assets/assets/images/author-johan.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 9448,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/author-johan.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/author-johan.svg"
+    },
+    {
+      "id": "assets-assets-images-github-icon-svg",
+      "name": "github-icon.svg",
+      "path": "assets/assets/images/github-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 824,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/github-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/github-icon.svg"
+    },
+    {
+      "id": "assets-assets-images-github-png",
+      "name": "github.png",
+      "path": "assets/assets/images/github.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/github.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/github.png"
+    },
+    {
+      "id": "assets-assets-images-github-svg",
+      "name": "github.svg",
+      "path": "assets/assets/images/github.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702315,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/github.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/github.svg"
+    },
+    {
+      "id": "assets-assets-images-gravatar-icon-svg",
+      "name": "gravatar-icon.svg",
+      "path": "assets/assets/images/gravatar-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 306,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/gravatar-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/gravatar-icon.svg"
+    },
+    {
+      "id": "assets-assets-images-gravatar-png",
+      "name": "gravatar.png",
+      "path": "assets/assets/images/gravatar.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/gravatar.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/gravatar.png"
+    },
+    {
+      "id": "assets-assets-images-gravatar-svg",
+      "name": "gravatar.svg",
+      "path": "assets/assets/images/gravatar.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/gravatar.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/gravatar.svg"
+    },
+    {
+      "id": "assets-assets-images-icon-192-png",
+      "name": "icon-192.png",
+      "path": "assets/assets/images/icon-192.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/icon-192.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/icon-192.png"
+    },
+    {
+      "id": "assets-assets-images-icon-192-svg",
+      "name": "icon-192.svg",
+      "path": "assets/assets/images/icon-192.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/icon-192.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/icon-192.svg"
+    },
+    {
+      "id": "assets-assets-images-icon-512-png",
+      "name": "icon-512.png",
+      "path": "assets/assets/images/icon-512.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/icon-512.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/icon-512.png"
+    },
+    {
+      "id": "assets-assets-images-icon-512-svg",
+      "name": "icon-512.svg",
+      "path": "assets/assets/images/icon-512.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/icon-512.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/icon-512.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-aedi-logo-computer-ai-986-pol-svg",
+      "name": "ionity-aedi-logo-computer-ai-986-pol.svg",
+      "path": "assets/assets/images/ionity-aedi-logo-computer-ai-986-pol.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 263609,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-aedi-logo-computer-ai-986-pol.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-aedi-logo-computer-ai-986-pol.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-logo-edited-png",
+      "name": "ionity-logo-edited.png",
+      "path": "assets/assets/images/ionity-logo-edited.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-logo-edited.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-logo-edited.png"
+    },
+    {
+      "id": "assets-assets-images-ionity-logo-edited-svg",
+      "name": "ionity-logo-edited.svg",
+      "path": "assets/assets/images/ionity-logo-edited.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702327,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-logo-edited.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-logo-edited.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-social-card-png",
+      "name": "ionity-social-card.png",
+      "path": "assets/assets/images/ionity-social-card.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-social-card.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-social-card.png"
+    },
+    {
+      "id": "assets-assets-images-ionity-social-card-svg",
+      "name": "ionity-social-card.svg",
+      "path": "assets/assets/images/ionity-social-card.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702327,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-social-card.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-social-card.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-today-logo-edited-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it-png",
+      "name": "ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png",
+      "path": "assets/assets/images/ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png"
+    },
+    {
+      "id": "assets-assets-images-ionity-today-logo-edited-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it-svg",
+      "name": "ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg",
+      "path": "assets/assets/images/ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702414,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg"
+    },
+    {
+      "id": "assets-assets-images-ionity-logo-ico",
+      "name": "ionity_logo.ico",
+      "path": "assets/assets/images/ionity_logo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 17785,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/ionity_logo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/ionity_logo.ico"
+    },
+    {
+      "id": "assets-assets-images-linkedin-icon-svg",
+      "name": "linkedin-icon.svg",
+      "path": "assets/assets/images/linkedin-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 602,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/linkedin-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/linkedin-icon.svg"
+    },
+    {
+      "id": "assets-assets-images-linkedin-png",
+      "name": "linkedin.png",
+      "path": "assets/assets/images/linkedin.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/linkedin.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/linkedin.png"
+    },
+    {
+      "id": "assets-assets-images-linkedin-svg",
+      "name": "linkedin.svg",
+      "path": "assets/assets/images/linkedin.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/linkedin.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/linkedin.svg"
+    },
+    {
+      "id": "assets-assets-images-logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa-png",
+      "name": "logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png",
+      "path": "assets/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 314123,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png"
+    },
+    {
+      "id": "assets-assets-images-logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa-svg",
+      "name": "logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg",
+      "path": "assets/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 419204,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg"
+    },
+    {
+      "id": "assets-assets-images-logo-ionity-clouds-png",
+      "name": "logo-ionity-clouds.png",
+      "path": "assets/assets/images/logo-ionity-clouds.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1649591,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/logo-ionity-clouds.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/logo-ionity-clouds.png"
+    },
+    {
+      "id": "assets-assets-images-logo-ionity-clouds-svg",
+      "name": "logo-ionity-clouds.svg",
+      "path": "assets/assets/images/logo-ionity-clouds.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 2199766,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/logo-ionity-clouds.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/logo-ionity-clouds.svg"
+    },
+    {
+      "id": "assets-assets-images-logo-white-png",
+      "name": "logo-white.png",
+      "path": "assets/assets/images/logo-white.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1165482,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/logo-white.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/logo-white.png"
+    },
+    {
+      "id": "assets-assets-images-logo-white-svg",
+      "name": "logo-white.svg",
+      "path": "assets/assets/images/logo-white.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1554287,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/logo-white.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/logo-white.svg"
+    },
+    {
+      "id": "assets-assets-images-whatsapp-png",
+      "name": "whatsapp.png",
+      "path": "assets/assets/images/whatsapp.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/whatsapp.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/whatsapp.png"
+    },
+    {
+      "id": "assets-assets-images-whatsapp-svg",
+      "name": "whatsapp.svg",
+      "path": "assets/assets/images/whatsapp.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/images/whatsapp.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/images/whatsapp.svg"
+    },
+    {
+      "id": "assets-assets-ionity-logo-edited-png",
+      "name": "ionity-logo-edited.png",
+      "path": "assets/assets/ionity-logo-edited.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/ionity-logo-edited.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/ionity-logo-edited.png"
+    },
+    {
+      "id": "assets-assets-ionity-animation-gif",
+      "name": "ionity_animation.gif",
+      "path": "assets/assets/ionity_animation.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 4088397,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/ionity_animation.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/ionity_animation.gif"
+    },
+    {
+      "id": "assets-assets-ionity-animation-transp-gif",
+      "name": "ionity_animation_transp.gif",
+      "path": "assets/assets/ionity_animation_transp.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 13038005,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/ionity_animation_transp.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/ionity_animation_transp.gif"
+    },
+    {
+      "id": "assets-assets-js-audio-manager-js",
+      "name": "audio-manager.js",
+      "path": "assets/assets/js/audio-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 5553,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/js/audio-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/js/audio-manager.js"
+    },
+    {
+      "id": "assets-assets-js-cookie-manager-js",
+      "name": "cookie-manager.js",
+      "path": "assets/assets/js/cookie-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 8434,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/js/cookie-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/js/cookie-manager.js"
+    },
+    {
+      "id": "assets-assets-js-indexnow-manager-js",
+      "name": "indexnow-manager.js",
+      "path": "assets/assets/js/indexnow-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 6660,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/js/indexnow-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/js/indexnow-manager.js"
+    },
+    {
+      "id": "assets-assets-js-layout-js",
+      "name": "layout.js",
+      "path": "assets/assets/js/layout.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 12396,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/js/layout.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/js/layout.js"
+    },
+    {
+      "id": "assets-assets-js-script-js",
+      "name": "script.js",
+      "path": "assets/assets/js/script.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 10096,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/js/script.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/js/script.js"
+    },
+    {
+      "id": "assets-assets-videos-clip-ecosystem-1-mp4",
+      "name": "Clip_Ecosystem_1.mp4",
+      "path": "assets/assets/videos/Clip_Ecosystem_1.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 2536400,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/assets/videos/Clip_Ecosystem_1.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/assets/videos/Clip_Ecosystem_1.mp4"
+    },
+    {
+      "id": "assets-cookie-banner-copy-html",
+      "name": "cookie-banner - Copy.html",
+      "path": "assets/cookie-banner - Copy.html",
+      "category": "code",
+      "format": "html",
+      "bytes": 5420,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/cookie-banner%20-%20Copy.html",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/cookie-banner%20-%20Copy.html"
+    },
+    {
+      "id": "assets-cookie-banner-html",
+      "name": "cookie-banner.html",
+      "path": "assets/cookie-banner.html",
+      "category": "code",
+      "format": "html",
+      "bytes": 5420,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/cookie-banner.html",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/cookie-banner.html"
+    },
+    {
+      "id": "assets-cookies-cookie-banner-html",
+      "name": "cookie-banner.html",
+      "path": "assets/cookies/cookie-banner.html",
+      "category": "code",
+      "format": "html",
+      "bytes": 5420,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/cookies/cookie-banner.html",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/cookies/cookie-banner.html"
+    },
+    {
+      "id": "assets-css-css-style-css",
+      "name": "style.css",
+      "path": "assets/css/css/style.css",
+      "category": "code",
+      "format": "css",
+      "bytes": 24039,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/css/css/style.css",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/css/css/style.css"
+    },
+    {
+      "id": "assets-css-style-css",
+      "name": "style.css",
+      "path": "assets/css/style.css",
+      "category": "code",
+      "format": "css",
+      "bytes": 17152,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/css/style.css",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/css/style.css"
+    },
+    {
+      "id": "assets-download-mp4",
+      "name": "download.mp4",
+      "path": "assets/download.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 19473214,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/download.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/download.mp4"
+    },
+    {
+      "id": "assets-favicon-zip",
+      "name": "favicon.zip",
+      "path": "assets/favicon.zip",
+      "category": "archive",
+      "format": "zip",
+      "bytes": 2245047,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/favicon.zip",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/favicon.zip"
+    },
+    {
+      "id": "assets-favicon-favicon-ico",
+      "name": "favicon.ico",
+      "path": "assets/favicon/favicon.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 9326,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/favicon/favicon.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/favicon/favicon.ico"
+    },
+    {
+      "id": "assets-favicon-ionity-logo-ico",
+      "name": "ionity_logo.ico",
+      "path": "assets/favicon/ionity_logo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 17785,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/favicon/ionity_logo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/favicon/ionity_logo.ico"
+    },
+    {
+      "id": "assets-images-transparrent-ionity-logo-edited-copy-png",
+      "name": "-transparrent-ionity-logo-edited - Copy.png",
+      "path": "assets/images/-transparrent-ionity-logo-edited - Copy.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.png"
+    },
+    {
+      "id": "assets-images-transparrent-ionity-logo-edited-copy-svg",
+      "name": "-transparrent-ionity-logo-edited - Copy.svg",
+      "path": "assets/images/-transparrent-ionity-logo-edited - Copy.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702348,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/-transparrent-ionity-logo-edited%20-%20Copy.svg"
+    },
+    {
+      "id": "assets-images-aedi-logo-ico",
+      "name": "AEDI-LOGo.ico",
+      "path": "assets/images/AEDI-LOGo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 410598,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/AEDI-LOGo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/AEDI-LOGo.ico"
+    },
+    {
+      "id": "assets-images-aedi-logo-jpeg",
+      "name": "AEDI-LOGo.jpeg",
+      "path": "assets/images/AEDI-LOGo.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 77331,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/AEDI-LOGo.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/AEDI-LOGo.jpeg"
+    },
+    {
+      "id": "assets-images-aedi-logo-svg",
+      "name": "AEDI-LOGo.svg",
+      "path": "assets/images/AEDI-LOGo.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1471197,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/AEDI-LOGo.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/AEDI-LOGo.svg"
+    },
+    {
+      "id": "assets-images-eagle-logo-ionity-ecosystems-ionity-world-png",
+      "name": "Eagle logo Ionity ECOSYSTEMS ionity world.png",
+      "path": "assets/images/Eagle logo Ionity ECOSYSTEMS ionity world.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 5439310,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.png"
+    },
+    {
+      "id": "assets-images-eagle-logo-ionity-ecosystems-ionity-world-svg",
+      "name": "Eagle logo Ionity ECOSYSTEMS ionity world.svg",
+      "path": "assets/images/Eagle logo Ionity ECOSYSTEMS ionity world.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 7252758,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Eagle%20logo%20Ionity%20ECOSYSTEMS%20ionity%20world.svg"
+    },
+    {
+      "id": "assets-images-edge-intelegence-eidi-png",
+      "name": "Edge intelegence eidi.png",
+      "path": "assets/images/Edge intelegence eidi.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1155222,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Edge%20intelegence%20eidi.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Edge%20intelegence%20eidi.png"
+    },
+    {
+      "id": "assets-images-edge-intelegence-eidi-svg",
+      "name": "Edge intelegence eidi.svg",
+      "path": "assets/images/Edge intelegence eidi.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1540618,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Edge%20intelegence%20eidi.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Edge%20intelegence%20eidi.svg"
+    },
+    {
+      "id": "assets-images-ionity-repo-jpeg",
+      "name": "IONITY_REPO.jpeg",
+      "path": "assets/images/IONITY_REPO.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 260560,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/IONITY_REPO.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/IONITY_REPO.jpeg"
+    },
+    {
+      "id": "assets-images-ionity-repo-svg",
+      "name": "IONITY_REPO.svg",
+      "path": "assets/images/IONITY_REPO.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 347729,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/IONITY_REPO.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/IONITY_REPO.svg"
+    },
+    {
+      "id": "assets-images-ionity-gui-jpeg",
+      "name": "Ionity_GUI.jpeg",
+      "path": "assets/images/Ionity_GUI.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 158010,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Ionity_GUI.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Ionity_GUI.jpeg"
+    },
+    {
+      "id": "assets-images-ionity-gui-svg",
+      "name": "Ionity_GUI.svg",
+      "path": "assets/images/Ionity_GUI.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 210989,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Ionity_GUI.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Ionity_GUI.svg"
+    },
+    {
+      "id": "assets-images-ionity-global-pty-ltd-transparrent-png",
+      "name": "Ionity_Global_Pty_LTD_Transparrent.png",
+      "path": "assets/images/Ionity_Global_Pty_LTD_Transparrent.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2082820,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Ionity_Global_Pty_LTD_Transparrent.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Ionity_Global_Pty_LTD_Transparrent.png"
+    },
+    {
+      "id": "assets-images-logo-clouds-png",
+      "name": "LOGO_CLOUDS .png",
+      "path": "assets/images/LOGO_CLOUDS .png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1649591,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/LOGO_CLOUDS%20.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/LOGO_CLOUDS%20.png"
+    },
+    {
+      "id": "assets-images-logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa-ionity-transparrent-used-ico",
+      "name": "Logo-dark-Ionity Antwerp-Designs Johan-Wilhelm van-Antwerp South-Africa-Ionity-transparrent-Used.ico",
+      "path": "assets/images/Logo-dark-Ionity Antwerp-Designs Johan-Wilhelm van-Antwerp South-Africa-Ionity-transparrent-Used.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 410598,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Logo-dark-Ionity%20Antwerp-Designs%20Johan-Wilhelm%20van-Antwerp%20South-Africa-Ionity-transparrent-Used.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Logo-dark-Ionity%20Antwerp-Designs%20Johan-Wilhelm%20van-Antwerp%20South-Africa-Ionity-transparrent-Used.ico"
+    },
+    {
+      "id": "assets-images-untitled-design-svg",
+      "name": "Untitled design.svg",
+      "path": "assets/images/Untitled design.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 263609,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/Untitled%20design.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/Untitled%20design.svg"
+    },
+    {
+      "id": "assets-images-aedi-logo-pc-jpeg",
+      "name": "aedi-logo-pc.jpeg",
+      "path": "assets/images/aedi-logo-pc.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 77331,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/aedi-logo-pc.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/aedi-logo-pc.jpeg"
+    },
+    {
+      "id": "assets-images-aedi-logo-pc-svg",
+      "name": "aedi-logo-pc.svg",
+      "path": "assets/images/aedi-logo-pc.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1471197,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/aedi-logo-pc.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/aedi-logo-pc.svg"
+    },
+    {
+      "id": "assets-images-ai-m-custom-ionity-pcb-copy-png",
+      "name": "ai-m-custom-ionity-pcb - Copy.png",
+      "path": "assets/images/ai-m-custom-ionity-pcb - Copy.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1632542,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ai-m-custom-ionity-pcb%20-%20Copy.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ai-m-custom-ionity-pcb%20-%20Copy.png"
+    },
+    {
+      "id": "assets-images-ai-m-custom-ionity-pcb-png",
+      "name": "ai-m-custom-ionity-pcb.png",
+      "path": "assets/images/ai-m-custom-ionity-pcb.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1632542,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ai-m-custom-ionity-pcb.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ai-m-custom-ionity-pcb.png"
+    },
+    {
+      "id": "assets-images-ai-m-custom-ionity-pcb-svg",
+      "name": "ai-m-custom-ionity-pcb.svg",
+      "path": "assets/images/ai-m-custom-ionity-pcb.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 2177047,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ai-m-custom-ionity-pcb.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ai-m-custom-ionity-pcb.svg"
+    },
+    {
+      "id": "assets-images-apple-touch-icon-png",
+      "name": "apple-touch-icon.png",
+      "path": "assets/images/apple-touch-icon.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/apple-touch-icon.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/apple-touch-icon.png"
+    },
+    {
+      "id": "assets-images-apple-touch-icon-svg",
+      "name": "apple-touch-icon.svg",
+      "path": "assets/images/apple-touch-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1068664,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/apple-touch-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/apple-touch-icon.svg"
+    },
+    {
+      "id": "assets-images-author-johan-jpg",
+      "name": "author-johan.jpg",
+      "path": "assets/images/author-johan.jpg",
+      "category": "image",
+      "format": "jpg",
+      "bytes": 6853,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/author-johan.jpg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/author-johan.jpg"
+    },
+    {
+      "id": "assets-images-author-johan-svg",
+      "name": "author-johan.svg",
+      "path": "assets/images/author-johan.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 9448,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/author-johan.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/author-johan.svg"
+    },
+    {
+      "id": "assets-images-dennis-g-ionity-today-tech-ionity-global-ionity-centurion-iot-png",
+      "name": "dennis_g_ionity_today_tech_Ionity_global_ionity_Centurion_Iot.png",
+      "path": "assets/images/dennis_g_ionity_today_tech_Ionity_global_ionity_Centurion_Iot.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 2378906,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/dennis_g_ionity_today_tech_Ionity_global_ionity_Centurion_Iot.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/dennis_g_ionity_today_tech_Ionity_global_ionity_Centurion_Iot.png"
+    },
+    {
+      "id": "assets-images-github-icon-svg",
+      "name": "github-icon.svg",
+      "path": "assets/images/github-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 824,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/github-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/github-icon.svg"
+    },
+    {
+      "id": "assets-images-github-png",
+      "name": "github.png",
+      "path": "assets/images/github.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/github.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/github.png"
+    },
+    {
+      "id": "assets-images-github-svg",
+      "name": "github.svg",
+      "path": "assets/images/github.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702315,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/github.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/github.svg"
+    },
+    {
+      "id": "assets-images-gravatar-icon-svg",
+      "name": "gravatar-icon.svg",
+      "path": "assets/images/gravatar-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 306,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/gravatar-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/gravatar-icon.svg"
+    },
+    {
+      "id": "assets-images-gravatar-png",
+      "name": "gravatar.png",
+      "path": "assets/images/gravatar.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/gravatar.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/gravatar.png"
+    },
+    {
+      "id": "assets-images-gravatar-svg",
+      "name": "gravatar.svg",
+      "path": "assets/images/gravatar.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/gravatar.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/gravatar.svg"
+    },
+    {
+      "id": "assets-images-icon-192-png",
+      "name": "icon-192.png",
+      "path": "assets/images/icon-192.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/icon-192.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/icon-192.png"
+    },
+    {
+      "id": "assets-images-icon-192-svg",
+      "name": "icon-192.svg",
+      "path": "assets/images/icon-192.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/icon-192.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/icon-192.svg"
+    },
+    {
+      "id": "assets-images-icon-512-png",
+      "name": "icon-512.png",
+      "path": "assets/images/icon-512.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/icon-512.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/icon-512.png"
+    },
+    {
+      "id": "assets-images-icon-512-svg",
+      "name": "icon-512.svg",
+      "path": "assets/images/icon-512.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/icon-512.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/icon-512.svg"
+    },
+    {
+      "id": "assets-images-ionity-aedi-logo-computer-ai-986-pol-svg",
+      "name": "ionity-aedi-logo-computer-ai-986-pol.svg",
+      "path": "assets/images/ionity-aedi-logo-computer-ai-986-pol.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 263609,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-aedi-logo-computer-ai-986-pol.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-aedi-logo-computer-ai-986-pol.svg"
+    },
+    {
+      "id": "assets-images-ionity-logo-edited-png",
+      "name": "ionity-logo-edited.png",
+      "path": "assets/images/ionity-logo-edited.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-logo-edited.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-logo-edited.png"
+    },
+    {
+      "id": "assets-images-ionity-logo-edited-svg",
+      "name": "ionity-logo-edited.svg",
+      "path": "assets/images/ionity-logo-edited.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702327,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-logo-edited.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-logo-edited.svg"
+    },
+    {
+      "id": "assets-images-ionity-social-card-png",
+      "name": "ionity-social-card.png",
+      "path": "assets/images/ionity-social-card.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-social-card.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-social-card.png"
+    },
+    {
+      "id": "assets-images-ionity-social-card-svg",
+      "name": "ionity-social-card.svg",
+      "path": "assets/images/ionity-social-card.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702327,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-social-card.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-social-card.svg"
+    },
+    {
+      "id": "assets-images-ionity-today-logo-edited-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it-png",
+      "name": "ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png",
+      "path": "assets/images/ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.png"
+    },
+    {
+      "id": "assets-images-ionity-today-logo-edited-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it-svg",
+      "name": "ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg",
+      "path": "assets/images/ionity-today-logo-edited -policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702414,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity-today-logo-edited%20-policy986aed-johanwilhelmvanantwerp-ionity-today-world-global-iot-ai-network-it.svg"
+    },
+    {
+      "id": "assets-images-ionity-logo-ico",
+      "name": "ionity_logo.ico",
+      "path": "assets/images/ionity_logo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 17785,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/ionity_logo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/ionity_logo.ico"
+    },
+    {
+      "id": "assets-images-johan-origin-retro-png",
+      "name": "johan-origin-retro.png",
+      "path": "assets/images/johan-origin-retro.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 941949,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/johan-origin-retro.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/johan-origin-retro.png"
+    },
+    {
+      "id": "assets-images-johan-portrait-jpg",
+      "name": "johan-portrait.jpg",
+      "path": "assets/images/johan-portrait.jpg",
+      "category": "image",
+      "format": "jpg",
+      "bytes": 10793,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/johan-portrait.jpg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/johan-portrait.jpg"
+    },
+    {
+      "id": "assets-images-linkedin-icon-svg",
+      "name": "linkedin-icon.svg",
+      "path": "assets/images/linkedin-icon.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 602,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/linkedin-icon.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/linkedin-icon.svg"
+    },
+    {
+      "id": "assets-images-linkedin-png",
+      "name": "linkedin.png",
+      "path": "assets/images/linkedin.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/linkedin.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/linkedin.png"
+    },
+    {
+      "id": "assets-images-linkedin-svg",
+      "name": "linkedin.svg",
+      "path": "assets/images/linkedin.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/linkedin.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/linkedin.svg"
+    },
+    {
+      "id": "assets-images-logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa-png",
+      "name": "logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png",
+      "path": "assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 314123,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.png"
+    },
+    {
+      "id": "assets-images-logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa-svg",
+      "name": "logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg",
+      "path": "assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 419204,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/logo-dark-ionity-antwerp-designs-johan-wilhelm-van-antwerp-south-africa.svg"
+    },
+    {
+      "id": "assets-images-logo-ionity-clouds-png",
+      "name": "logo-ionity-clouds.png",
+      "path": "assets/images/logo-ionity-clouds.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1649591,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/logo-ionity-clouds.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/logo-ionity-clouds.png"
+    },
+    {
+      "id": "assets-images-logo-ionity-clouds-svg",
+      "name": "logo-ionity-clouds.svg",
+      "path": "assets/images/logo-ionity-clouds.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 2199766,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/logo-ionity-clouds.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/logo-ionity-clouds.svg"
+    },
+    {
+      "id": "assets-images-logo-white-png",
+      "name": "logo-white.png",
+      "path": "assets/images/logo-white.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1165482,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/logo-white.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/logo-white.png"
+    },
+    {
+      "id": "assets-images-logo-white-svg",
+      "name": "logo-white.svg",
+      "path": "assets/images/logo-white.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1554287,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/logo-white.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/logo-white.svg"
+    },
+    {
+      "id": "assets-images-whatsapp-png",
+      "name": "whatsapp.png",
+      "path": "assets/images/whatsapp.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/whatsapp.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/whatsapp.png"
+    },
+    {
+      "id": "assets-images-whatsapp-svg",
+      "name": "whatsapp.svg",
+      "path": "assets/images/whatsapp.svg",
+      "category": "image",
+      "format": "svg",
+      "bytes": 1702317,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/images/whatsapp.svg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/images/whatsapp.svg"
+    },
+    {
+      "id": "assets-ionity-card-electric-gif",
+      "name": "ionity-card-electric.gif",
+      "path": "assets/ionity-card-electric.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 655796,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/ionity-card-electric.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/ionity-card-electric.gif"
+    },
+    {
+      "id": "assets-ionity-logo-edited-png",
+      "name": "ionity-logo-edited.png",
+      "path": "assets/ionity-logo-edited.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 1276505,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/ionity-logo-edited.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/ionity-logo-edited.png"
+    },
+    {
+      "id": "assets-ionity-animation-gif",
+      "name": "ionity_animation.gif",
+      "path": "assets/ionity_animation.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 4088397,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/ionity_animation.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/ionity_animation.gif"
+    },
+    {
+      "id": "assets-ionity-animation-transp-gif",
+      "name": "ionity_animation_transp.gif",
+      "path": "assets/ionity_animation_transp.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 13038005,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/ionity_animation_transp.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/ionity_animation_transp.gif"
+    },
+    {
+      "id": "assets-ionity-logo-ico",
+      "name": "ionity_logo.ico",
+      "path": "assets/ionity_logo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 17785,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/ionity_logo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/ionity_logo.ico"
+    },
+    {
+      "id": "assets-js-audio-manager-js",
+      "name": "audio-manager.js",
+      "path": "assets/js/audio-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 5553,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/audio-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/audio-manager.js"
+    },
+    {
+      "id": "assets-js-cookie-manager-js",
+      "name": "cookie-manager.js",
+      "path": "assets/js/cookie-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 8434,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/cookie-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/cookie-manager.js"
+    },
+    {
+      "id": "assets-js-indexnow-manager-js",
+      "name": "indexnow-manager.js",
+      "path": "assets/js/indexnow-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 6660,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/indexnow-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/indexnow-manager.js"
+    },
+    {
+      "id": "assets-js-js-audio-manager-js",
+      "name": "audio-manager.js",
+      "path": "assets/js/js/audio-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 5553,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/js/audio-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/js/audio-manager.js"
+    },
+    {
+      "id": "assets-js-js-cookie-manager-js",
+      "name": "cookie-manager.js",
+      "path": "assets/js/js/cookie-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 9017,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/js/cookie-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/js/cookie-manager.js"
+    },
+    {
+      "id": "assets-js-js-indexnow-manager-js",
+      "name": "indexnow-manager.js",
+      "path": "assets/js/js/indexnow-manager.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 6660,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/js/indexnow-manager.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/js/indexnow-manager.js"
+    },
+    {
+      "id": "assets-js-js-layout-js",
+      "name": "layout.js",
+      "path": "assets/js/js/layout.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 12396,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/js/layout.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/js/layout.js"
+    },
+    {
+      "id": "assets-js-js-script-js",
+      "name": "script.js",
+      "path": "assets/js/js/script.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 16661,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/js/script.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/js/script.js"
+    },
+    {
+      "id": "assets-js-layout-js",
+      "name": "layout.js",
+      "path": "assets/js/layout.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 12396,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/layout.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/layout.js"
+    },
+    {
+      "id": "assets-js-script-js",
+      "name": "script.js",
+      "path": "assets/js/script.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 10096,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/script.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/script.js"
+    },
+    {
+      "id": "assets-js-seo-enhancement-js",
+      "name": "seo-enhancement.js",
+      "path": "assets/js/seo-enhancement.js",
+      "category": "code",
+      "format": "js",
+      "bytes": 7498,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/js/seo-enhancement.js",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/js/seo-enhancement.js"
+    },
+    {
+      "id": "assets-text-0f9618673fb644b9b2767ca592a39673",
+      "name": "0f9618673fb644b9b2767ca592a39673",
+      "path": "assets/text/0f9618673fb644b9b2767ca592a39673",
+      "category": "other",
+      "format": "file",
+      "bytes": 32,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/text/0f9618673fb644b9b2767ca592a39673",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/text/0f9618673fb644b9b2767ca592a39673"
+    },
+    {
+      "id": "assets-text-txt",
+      "name": "txt",
+      "path": "assets/text/txt",
+      "category": "other",
+      "format": "file",
+      "bytes": 0,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/text/txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/text/txt"
+    },
+    {
+      "id": "assets-videos-clip-ecosystem-1-mp4",
+      "name": "Clip_Ecosystem_1.mp4",
+      "path": "assets/videos/Clip_Ecosystem_1.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 2536400,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/videos/Clip_Ecosystem_1.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/videos/Clip_Ecosystem_1.mp4"
+    },
+    {
+      "id": "assets-videos-ionity-intro-implosion-nodes-networks-202605101118-mp4",
+      "name": "Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "path": "assets/videos/Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 5928281,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/videos/Ionity_intro_implosion_nodes_networks_202605101118.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/videos/Ionity_intro_implosion_nodes_networks_202605101118.mp4"
+    },
+    {
+      "id": "assets-videos-ionity-co-za-ionity-global-q3-2026-wifi-swireless-policy-986-aed-mp4",
+      "name": "ionity-co-za-ionity-global-q3-2026-wifi-swireless-policy-986-aed.mp4",
+      "path": "assets/videos/ionity-co-za-ionity-global-q3-2026-wifi-swireless-policy-986-aed.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 94931917,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/assets/videos/ionity-co-za-ionity-global-q3-2026-wifi-swireless-policy-986-aed.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/assets/videos/ionity-co-za-ionity-global-q3-2026-wifi-swireless-policy-986-aed.mp4"
+    },
+    {
+      "id": "cookie-banner-copy-html",
+      "name": "cookie-banner - Copy.html",
+      "path": "cookie-banner - Copy.html",
+      "category": "code",
+      "format": "html",
+      "bytes": 5420,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/cookie-banner%20-%20Copy.html",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/cookie-banner%20-%20Copy.html"
+    },
+    {
+      "id": "cookie-banner-html",
+      "name": "cookie-banner.html",
+      "path": "cookie-banner.html",
+      "category": "code",
+      "format": "html",
+      "bytes": 5420,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/cookie-banner.html",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/cookie-banner.html"
+    },
+    {
+      "id": "download-mp4",
+      "name": "download.mp4",
+      "path": "download.mp4",
+      "category": "video",
+      "format": "mp4",
+      "bytes": 19473214,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/download.mp4",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/download.mp4"
+    },
+    {
+      "id": "ian-jaco-raven-copy-jpeg",
+      "name": "ian jaco raven - Copy.jpeg",
+      "path": "ian jaco raven - Copy.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 468534,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ian%20jaco%20raven%20-%20Copy.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ian%20jaco%20raven%20-%20Copy.jpeg"
+    },
+    {
+      "id": "ian-jaco-raven-jpeg",
+      "name": "ian jaco raven.jpeg",
+      "path": "ian jaco raven.jpeg",
+      "category": "image",
+      "format": "jpeg",
+      "bytes": 468534,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ian%20jaco%20raven.jpeg",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ian%20jaco%20raven.jpeg"
+    },
+    {
+      "id": "ionity-card-electric-gif",
+      "name": "ionity-card-electric.gif",
+      "path": "ionity-card-electric.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 655796,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity-card-electric.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity-card-electric.gif"
+    },
+    {
+      "id": "ionity-links-b64-txt",
+      "name": "ionity-links.b64.txt",
+      "path": "ionity-links.b64.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 8985,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity-links.b64.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity-links.b64.txt"
+    },
+    {
+      "id": "ionity-links-checksums-txt",
+      "name": "ionity-links.checksums.txt",
+      "path": "ionity-links.checksums.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 1288,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity-links.checksums.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity-links.checksums.txt"
+    },
+    {
+      "id": "ionity-links-json",
+      "name": "ionity-links.json",
+      "path": "ionity-links.json",
+      "category": "metadata",
+      "format": "json",
+      "bytes": 6261,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity-links.json",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity-links.json"
+    },
+    {
+      "id": "ionity-links-txt",
+      "name": "ionity-links.txt",
+      "path": "ionity-links.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 6439,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity-links.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity-links.txt"
+    },
+    {
+      "id": "ionity-links-yml",
+      "name": "ionity-links.yml",
+      "path": "ionity-links.yml",
+      "category": "metadata",
+      "format": "yml",
+      "bytes": 6127,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity-links.yml",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity-links.yml"
+    },
+    {
+      "id": "ionity-animation-gif",
+      "name": "ionity_animation.gif",
+      "path": "ionity_animation.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 4088397,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity_animation.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity_animation.gif"
+    },
+    {
+      "id": "ionity-animation-transp-gif",
+      "name": "ionity_animation_transp.gif",
+      "path": "ionity_animation_transp.gif",
+      "category": "image",
+      "format": "gif",
+      "bytes": 13038005,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity_animation_transp.gif",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity_animation_transp.gif"
+    },
+    {
+      "id": "ionity-banner-yt-2-png",
+      "name": "ionity_banner_YT_2.png",
+      "path": "ionity_banner_YT_2.png",
+      "category": "image",
+      "format": "png",
+      "bytes": 763849,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity_banner_YT_2.png",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity_banner_YT_2.png"
+    },
+    {
+      "id": "ionity-logo-ico",
+      "name": "ionity_logo.ico",
+      "path": "ionity_logo.ico",
+      "category": "image",
+      "format": "ico",
+      "bytes": 17785,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/ionity_logo.ico",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/ionity_logo.ico"
+    },
+    {
+      "id": "links-ionity-global-johan-wilhelm-van-antwerp-txt",
+      "name": "links-ionity-global-johan-wilhelm-van-antwerp.txt",
+      "path": "links-ionity-global-johan-wilhelm-van-antwerp.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 101666,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/links-ionity-global-johan-wilhelm-van-antwerp.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/links-ionity-global-johan-wilhelm-van-antwerp.txt"
+    },
+    {
+      "id": "links-txt",
+      "name": "links.txt",
+      "path": "links.txt",
+      "category": "metadata",
+      "format": "txt",
+      "bytes": 154,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/links.txt",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/links.txt"
+    },
+    {
+      "id": "package-lock-json",
+      "name": "package-lock.json",
+      "path": "package-lock.json",
+      "category": "metadata",
+      "format": "json",
+      "bytes": 91,
+      "raw_url": "https://raw.githubusercontent.com/Ionity-Global-Pty-Ltd/ionity-assets/main/package-lock.json",
+      "github_url": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/blob/main/package-lock.json"
+    }
+  ]
+}

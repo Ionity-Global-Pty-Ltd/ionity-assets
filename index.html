@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ionity Assets | Official Digital Asset Directory</title>
+    <meta name="description" content="Search, preview, copy, and download official Ionity Global brand assets, media, documents, and machine-readable metadata.">
+    <meta name="keywords" content="Ionity Global assets, Ionity logo, brand assets, media kit, official assets, AI asset catalog">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#101820">
+    <link rel="canonical" href="https://ionity-global-pty-ltd.github.io/ionity-assets/">
+    <link rel="icon" href="ionity_logo.ico">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="alternate" type="application/json" title="Ionity Assets catalog" href="assets.json">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "DataCatalog",
+        "name": "Ionity Assets",
+        "description": "Official public digital asset catalog for Ionity Global (Pty) Ltd.",
+        "url": "https://ionity-global-pty-ltd.github.io/ionity-assets/",
+        "sameAs": "https://github.com/Ionity-Global-Pty-Ltd/ionity-assets",
+        "provider": { "@type": "Organization", "name": "Ionity Global (Pty) Ltd", "url": "https://www.ionity.today" },
+        "dataset": { "@type": "Dataset", "name": "Ionity public digital assets", "distribution": { "@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://ionity-global-pty-ltd.github.io/ionity-assets/assets.json" } }
+      }
+    </script>
+    <script src="app.js" type="module"></script>
+  </head>
+  <body>
+    <header class="masthead">
+      <a class="brand" href="./" aria-label="Ionity Assets home">
+        <img src="Ionity_Global_Pty_LTD_Transparrent_optimized_1000.png" alt="Ionity Global">
+        <span>Asset Directory</span>
+      </a>
+      <nav aria-label="Repository links">
+        <a href="assets.json">JSON catalog</a>
+        <a href="https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/wiki">Documentation</a>
+        <a class="github-link" href="https://github.com/Ionity-Global-Pty-Ltd/ionity-assets">GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <div class="intro-copy">
+          <p class="eyebrow">Official public registry</p>
+          <h1 id="page-title">Ionity Assets</h1>
+          <p class="lede">A direct, searchable index of official Ionity Global media. Find the file, inspect its details, then copy the raw URL or download it.</p>
+        </div>
+        <dl class="catalog-stats" aria-label="Catalog statistics">
+          <div><dt id="asset-count">—</dt><dd>indexed files</dd></div>
+          <div><dt id="format-count">—</dt><dd>file formats</dd></div>
+          <div><dt>Public</dt><dd>access level</dd></div>
+        </dl>
+      </section>
+
+      <section class="catalog" aria-labelledby="catalog-title">
+        <div class="catalog-heading">
+          <div>
+            <p class="eyebrow">Browse the repository</p>
+            <h2 id="catalog-title">Asset catalog</h2>
+          </div>
+          <p id="result-count" aria-live="polite">Loading assets…</p>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-field">
+            <span class="sr-only">Search assets</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+            <input id="search" type="search" placeholder="Search filenames, paths, formats…" autocomplete="off">
+            <kbd>/</kbd>
+          </label>
+          <div class="filters" id="filters" aria-label="Filter by asset type"></div>
+        </div>
+
+        <div class="asset-grid" id="asset-grid" aria-busy="true"></div>
+        <div class="empty-state" id="empty-state" hidden>
+          <strong>No matching assets</strong>
+          <span>Try a shorter filename, format, or category.</span>
+        </div>
+        <button class="load-more" id="load-more" type="button" hidden>Show more assets</button>
+      </section>
+
+      <section class="machine-access" aria-labelledby="machine-title">
+        <div>
+          <p class="eyebrow">For agents and integrations</p>
+          <h2 id="machine-title">Machine-readable by design</h2>
+          <p>Every record includes a stable repository path, category, format, byte size, raw URL, and GitHub source URL.</p>
+        </div>
+        <div class="machine-links">
+          <a href="assets.json"><span>Catalog</span><strong>assets.json</strong></a>
+          <a href="assets.schema.json"><span>JSON Schema</span><strong>assets.schema.json</strong></a>
+          <a href="llms.txt"><span>AI guidance</span><strong>llms.txt</strong></a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Ionity Global (Pty) Ltd · Building Tomorrow, Today.</span>
+      <span>Assets remain subject to the repository's licensing and usage notices.</span>
+    </footer>
+
+    <template id="asset-template">
+      <article class="asset-card">
+        <a class="preview" target="_blank" rel="noreferrer">
+          <img alt="" loading="lazy">
+          <span class="file-symbol" aria-hidden="true"></span>
+          <span class="format-badge"></span>
+        </a>
+        <div class="asset-info">
+          <div class="asset-title-row"><h3></h3><span class="size"></span></div>
+          <p class="path"></p>
+          <div class="asset-actions">
+            <button class="copy-button" type="button">Copy raw URL</button>
+            <a class="download-link" download>Download</a>
+            <a class="source-link" target="_blank" rel="noreferrer" aria-label="View source on GitHub">↗</a>
+          </div>
+        </div>
+      </article>
+    </template>
+  </body>
+</html>

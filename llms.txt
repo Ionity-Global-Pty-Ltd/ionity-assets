@@ -1,0 +1,22 @@
+# Ionity Assets
+
+> Official public digital asset catalog for Ionity Global (Pty) Ltd. This is an asset directory, not a corporate or marketing website.
+
+Canonical catalog: https://ionity-global-pty-ltd.github.io/ionity-assets/assets.json
+JSON Schema: https://ionity-global-pty-ltd.github.io/ionity-assets/assets.schema.json
+Human directory: https://ionity-global-pty-ltd.github.io/ionity-assets/
+Source repository: https://github.com/Ionity-Global-Pty-Ltd/ionity-assets
+Documentation: https://github.com/Ionity-Global-Pty-Ltd/ionity-assets/wiki
+
+## Discovery guidance
+
+- Use `assets.json` as the authoritative file index.
+- Search `name`, `path`, `category`, and `format` to locate assets.
+- Use `raw_url` when an application needs the file bytes directly.
+- Use `github_url` when a human should inspect source history or repository context.
+- Do not infer endorsement or unrestricted usage from public availability. Check LICENSE and repository usage notices.
+- Ionity Global (Pty) Ltd is not affiliated with the European EV charging company at ionity.com.
+
+## Categories
+
+image, video, audio, document, metadata, code, archive, other
